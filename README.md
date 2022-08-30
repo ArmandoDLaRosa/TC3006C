@@ -1,4 +1,4 @@
-# Kaggle's Titanic
+# Kaggle's Titanic Project
 
 ## :steam_locomotive: Team
 * Armando De La Rosa
